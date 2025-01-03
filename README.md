@@ -1,4 +1,9 @@
-## Hi there 👋
+## About me
+I am a software engineering student. I am open to summer internships!
+
+## My skills
+- languages: c, java, javascript, python, SQL
+- Tools & Frameworks: VScode, netbeans, github
 
 <!--
 **zahra640/zahra640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
