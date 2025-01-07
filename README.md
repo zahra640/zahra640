@@ -2,8 +2,10 @@
 🎓 I am a software engineering student.
 
 ## My skills
-- 💻 languages: c, java, javascript, python, SQL
-- 🛠 Tools & Frameworks: VScode, netbeans, github
+- 💻 languages: C, Java, JavaScript, Python, HTML, SQL
+- 🛠 Developer Tools: Linux, Windows, IOS, MacOS
+- 🖥️ Operating Systems: VScode, NetBeans, GitHub, Microsoft Suite, Xcode
+
 
 <!--
 **zahra640/zahra640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
