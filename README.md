@@ -1,5 +1,5 @@
 ## About me
-🎓 I am a software engineering student with an Area of Emphasis in Artificial Intellegence
+🎓 I am a Software Engineering student with an Area of Emphasis in Artificial Intellegence
 
 ## My skills
 - 💻 languages: C, Java, JavaScript, Python, HTML, SQL
